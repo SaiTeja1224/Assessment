@@ -8,6 +8,8 @@ A task contains its name, description, due date. Along with these, we can mark t
 
 Styling is done using basic css and modular css.
 
+Each of the folders inside the zip contains README.md please look into it.
+
 
 # Routes
 
